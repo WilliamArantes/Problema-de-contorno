@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
-
+//***************************Tarefa feita na sala de aula: Resolver o problema de contorno y" = y' + 2y + cos(x) com as condições iniciais especificadas no pdf dado**********************************************************************************************
 #define M 2
 #define N 2
 #define NP 10
